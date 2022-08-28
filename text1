@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+  printf（"第五步"）；
   printf("计科1902肖伟浩")；
   return 0；
 }
